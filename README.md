@@ -46,7 +46,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Miroverse Inc.
-- FreeCodeCamp
+- Qalb-E-Al
 
 ## 📝 License
 
